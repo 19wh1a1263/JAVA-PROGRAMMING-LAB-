@@ -1,0 +1,30 @@
+Êþº¾   4 h
+   3	  4	  5 6
+  7	  8	  9	 : ; <
+ = > ? @ A	 : B
+  C
+  D E
+  3
+  F G
+  H
+  I J
+  K
+ L M N O P
+  D Q R S fstnode Llinkedlist; lastnode <init> ()V Code LineNumberTable insert_front (I)V StackMapTable 6 
+insert_end delete R A display 
+SourceFile doublylinkedlist.java $ % ! " # " 
+linkedlist $ ) T " U " V W X !Linked list created successfully! Y Z [ .Node Inserted at the front of the Linked list! ,Node Inserted at the end of the Linked list! java/util/Scanner \ ] $ ^ 0 % java/lang/StringBuilder _ `  nodes available here! _ a b c IEnter the node number which you want to delete from ascending order list: d c e f g Invalid node number!
+ $Node has been deleted successfully!
+  List of node in Ascending order! !List of node in Descending order! linked java/lang/Object next prev java/lang/System out Ljava/io/PrintStream; java/io/PrintStream println (Ljava/lang/String;)V in Ljava/io/InputStream; (Ljava/io/InputStream;)V append (I)Ljava/lang/StringBuilder; -(Ljava/lang/String;)Ljava/lang/StringBuilder; toString ()Ljava/lang/String; nextLine java/lang/Integer parseInt (Ljava/lang/String;)I          ! "    # "      $ %  &   3     *· *µ *µ ±    '          	      ( )  &   ¡     R» Y· M*´ Ç ",,Zµ µ **,Zµ µ ² 	¶ 
+§ %,µ ,*´ µ *´ ,µ *,µ ² ¶ 
+±    '   .     	      $   / # 4 $ < % D & I ' Q ) *   	 ü / +!   , )  &   ¡     R» Y· M*´ Ç ",,Zµ µ **,Zµ µ ² 	¶ 
+§ %,µ ,*´ µ *´ ,µ *,µ ² ¶ 
+±    '   .    - 	 .  /  0 $ 1 / 4 4 5 < 6 D 7 I 8 Q : *   	 ü / +!   - %  &  "    <» Y² · :*´ :Æ „´ :§ÿñ*¶ *´ Y:Y::² » Y· ¶ ¶ ¶ ¶ 
+² ¶ 
+¶ ¸ =Ÿ ™¢ gž c>£ ´ :„§ÿñ>d£ ´ :„§ÿï>`£ ´ :„§ÿïµ µ µ µ :§ J   *´ :*´ µ *´ µ :§ (² ¶ 
+§ *´ :*´ µ *´ µ :² ¶ 
+±    '   š &   >  @  B  C  B & D * E 6 F O G W H ` I e J n K u L | K ‚ M ‹ N ’ M ˜ O ¡ P ¨ O ® Q µ R ¼ S Â T È U Î W Ó X Ù Y â Z ê [ ð ^ û a b
+ c d g h *   R ÿ   .   +   /  ÿ I  . + + + /  ÿ   .  + + + /  !
+   0 %  &   Œ     ;*´ L² ¶ 
++Æ +¶ +´ L§ÿó*´ L² ¶ 
++Æ +¶ +´ L§ÿó±    '   .    l  m  n  o  p  s " t * u . v 2 w : y *    ü  +  1    2
